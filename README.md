@@ -1,7 +1,7 @@
 
 # **Walmart Sales**
 
-[Walmart](Walmart.png)
+![Walmart](Walmart.png)
 
 # Introduction
 In this project, as a Data Analyst, I was responsible for analysing the data provided in a file called [Walmart.csv](Walmart.csv). My objective was to transform the raw data into usable information through preliminary cleaning, data exploration (EDA) and answering several key questions using SQL.
